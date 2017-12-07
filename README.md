@@ -1,3 +1,3 @@
 ideas
 
-lock foridies in repository "My"
+Look for ideas in the repository "My"
